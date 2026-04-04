@@ -27,7 +27,7 @@ United States dominates total revenue (~70%), with peak sales in March and May, 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](DataAdvantage_Regional_Sales_of_2025.png)
+![Dashboard](dashboard-preview.png)
 
 ---
 
